@@ -1,0 +1,12 @@
+[project]
+name = "typemap-test"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "typemap @ git+https://github.com/vercel/python-typemap.git",
+]
+
+[dependency-groups]
+dev = [
+    "mypy @ git+https://github.com/msullivan/mypy-typemap.git",
+]
