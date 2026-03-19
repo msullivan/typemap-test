@@ -1,6 +1,8 @@
 # typemap-test
 
-Demo testing repo for the PEP 827 prototypes.
+Demo testing repo for the PEP 827 prototypes:
+- [typemap runtime](https://github.com/vercel/python-typemap)
+- [mypy prototype](https://github.com/msullivan/mypy-typemap)
 
 ## Setup
 
